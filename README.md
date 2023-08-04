@@ -1,10 +1,10 @@
-** Loading Indicator**
+ ### Loading Indicator
 
 The CircularProgress component is a customizable and reusable circular progress bar built using React and styled-components. It provides a visually appealing way to display progress and can be used to showcase the completion status of tasks, processes, or any other numeric values that need to be tracked.
 
 
 ## Deployed Link:-
-
+https://loading-indicator-sonalsingh.vercel.app/
 
 
 
